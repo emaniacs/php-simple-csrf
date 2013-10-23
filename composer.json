@@ -1,0 +1,19 @@
+{
+    "name": "ardi/php-simple-csrf",
+    "description": "Simple library for csrf protection.",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "N.Ardi",
+            "email": "noone.nu1@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "SimpleCsrf": "src/"
+        }
+    }
+}
